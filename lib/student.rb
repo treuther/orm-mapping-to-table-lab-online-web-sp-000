@@ -7,7 +7,7 @@ class Student
   attr_reader :id
   
   def self.create_table
-    
+    sql <<-
   end
   
 end
