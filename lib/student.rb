@@ -14,6 +14,7 @@ class Student
         grade TEXT
       )
       SQL
+      DB = 
   end
   
 end
